@@ -40,9 +40,9 @@
 # debug information files
 *.dwo
 
-# buld
-build/
-bin/
-
 # VSCode settings
 .vscode/
+
+# build
+build/
+bin/
