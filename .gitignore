@@ -43,3 +43,6 @@
 # buld
 build/
 bin/
+
+# VSCode settings
+.vscode/
