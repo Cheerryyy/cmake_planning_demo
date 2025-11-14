@@ -1,7 +1,10 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/ChenC/CppCode/cmake_planning_demo/build/cmake_install.cmake"
+		"C:/Users/ChenC/CppCode/cmake_planning_demo/build/cmake_install.cmake",
+		"C:/Users/ChenC/CppCode/cmake_planning_demo/build/src/cmake_install.cmake",
+		"C:/Users/ChenC/CppCode/cmake_planning_demo/build/src/pnc_map/cmake_install.cmake",
+		"C:/Users/ChenC/CppCode/cmake_planning_demo/build/src/process/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
