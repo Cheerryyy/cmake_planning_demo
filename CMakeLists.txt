@@ -8,6 +8,7 @@ project(planning
 )
 
 set(CMAKE_CXX_STANDARD 17)
+enable_testing()
 
 # 变量设置
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
@@ -19,3 +20,4 @@ set(EIGEN5_INCLUDE_DIR "C:/Users/ChenC/Software/vscode_cpp_tools/eigen-5.0.0")
 
 # 添加子目录
 add_subdirectory(src)
+add_subdirectory(test/map_test)
